@@ -1,4 +1,4 @@
-package Arrays
+package arrays
 
 import java.math.BigDecimal
 import java.math.RoundingMode

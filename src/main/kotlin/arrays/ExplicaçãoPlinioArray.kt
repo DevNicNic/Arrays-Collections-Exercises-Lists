@@ -1,4 +1,4 @@
-package Arrays
+package arrays
 
 fun main() {
     val salarios = doubleArrayOf(1000.0, 1100.0, 2000.0, 3000.0)

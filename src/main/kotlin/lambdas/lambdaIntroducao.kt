@@ -1,4 +1,4 @@
-package Lambdas
+package lambdas
 
 // função anônima não tem nome , e pode ser passada por parâmetro.
 // sintaxe { parâmetro -> corpo }

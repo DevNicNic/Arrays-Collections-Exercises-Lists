@@ -1,4 +1,4 @@
-package Arrays
+package arrays
 
 fun main() {
     // imprime uma série de 1 a 10

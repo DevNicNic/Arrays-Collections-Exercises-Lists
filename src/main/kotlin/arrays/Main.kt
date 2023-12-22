@@ -1,4 +1,4 @@
-package Arrays
+package arrays
 
 fun main(args: Array<String>) {
     println("Hello World!")

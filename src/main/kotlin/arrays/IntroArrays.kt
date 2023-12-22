@@ -1,4 +1,4 @@
-package Arrays
+package arrays
 
 fun main() {
 //    val idade1 = 25
